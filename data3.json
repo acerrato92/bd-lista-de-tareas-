@@ -1,0 +1,11 @@
+{
+    "id": "3",
+    "nombre": "Terminar el proyecto",
+    "descripción": "Terminar el proyecto de desarrollo de software",
+    "estado": "cancelada",
+    "fecha_creación": "2023-08-20T08:00:00.000Z",
+    "fecha_de_vencimiento": "2023-08-30T18:00:00.000Z",
+    "prioridad": 1,
+    "notas": "terminar proyecto antes de clases"
+  }
+  
